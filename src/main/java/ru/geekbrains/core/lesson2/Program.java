@@ -13,7 +13,7 @@ public class Program {
     private static int fieldSizeX;
     private static int fieldSizeY;
     private static  int FIELD_SIZE; // константа для размера поля
-    private static final int WIN_COUNT = 3;  // Количество очков, которое нужно получить, чтобы выиграть
+    private static final int WIN_COUNT = 4;  // Количество очков, которое нужно получить, чтобы выиграть
 
     /**
      * Инициализация поля, с вводом размера.
